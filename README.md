@@ -10,6 +10,7 @@ git clone --recursive git@github.com:mobilecloud-14-examples/In-Language-X.git
 To retrieve newly added example submodules (I think) use:
 
 git submodule foreach git checkout master
+
 git submodule foreach git pull
 
 
