@@ -24,9 +24,13 @@ Groovy / Grails
 ---------------
 https://github.com/larrymjordan/mobilecloud-14-examples Groovy-Grails
 
+Java EE 7
+---------
+https://github.com/ricsirigu/mobilecloud
+
 JavaScript / Node.js
-----
-https://github.com/adrianchia/mobilecloud-14-nodejs Node.js
+--------------------
+https://github.com/adrianchia/mobilecloud-14-nodejs Node
 
 PHP
 ---

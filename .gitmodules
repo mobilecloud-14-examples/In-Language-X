@@ -31,3 +31,6 @@
 [submodule "Xtend"]
 	path = Xtend
 	url = https://github.com/joergreichert/mobilecloud-14-xtend
+[submodule "Java-EE"]
+	path = Java-EE
+	url = https://github.com/ricsirigu/mobilecloud
