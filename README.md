@@ -3,7 +3,7 @@ In Language [X]
 
 Programming Cloud Services for Android Handheld Systems course code examples -- but built with other languages or frameworks
 
-To clone the repository to all submodules use:
+To clone the repository with all submodules use:
 
 git clone --recursive git@github.com:mobilecloud-14-examples/In-Language-X.git
 
