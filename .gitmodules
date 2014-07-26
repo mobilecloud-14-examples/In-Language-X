@@ -1,0 +1,33 @@
+[submodule "CSharp-ASP.Net-MVC"]
+	path = CSharp-ASP.Net-MVC
+	url = https://github.com/christav/mobilecloud-14-examples
+[submodule "CSharp-ASP.Net-Web-API-2"]
+	path = CSharp-ASP.Net-Web-API-2
+	url = https://github.com/emadhilo/mobilecloud
+[submodule "Go"]
+	path = Go
+	url = https://github.com/arubislander/mobilecloud-14-examples
+[submodule "Groovy-Grails"]
+	path = Groovy-Grails
+	url = https://github.com/larrymjordan/mobilecloud-14-examples
+[submodule "Node"]
+	path = Node
+	url = https://github.com/adrianchia/mobilecloud-14-nodejs
+[submodule "Python"]
+	path = Python
+	url = https://github.com/bkuzmic/mobilecloud-14-python
+[submodule "Python-Flask"]
+	path = Python-Flask
+	url = https://github.com/cn28h/mobilecloud-14-flask
+[submodule "Python-Django"]
+	path = Python-Django
+	url = https://github.com/bansalsamarth/mobilecloud-14-django
+[submodule "Ruby-Rails"]
+	path = Ruby-Rails
+	url = https://github.com/lardelbow/mobilecloud-14-rails
+[submodule "Scala"]
+	path = Scala
+	url = https://github.com/kpiszczek/posa-webservices-scala
+[submodule "Xtend"]
+	path = Xtend
+	url = https://github.com/joergreichert/mobilecloud-14-xtend
