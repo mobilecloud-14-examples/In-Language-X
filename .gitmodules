@@ -34,3 +34,6 @@
 [submodule "Java-EE"]
 	path = Java-EE
 	url = https://github.com/ricsirigu/mobilecloud
+[submodule "Clojure"]
+	path = Clojure
+	url = git@github.com:jchochli/mobilecloud-14-examples-clojure.git

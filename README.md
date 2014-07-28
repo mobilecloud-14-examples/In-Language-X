@@ -1,5 +1,5 @@
 In Language [X]
-========
+===============
 
 Programming Cloud Services for Android Handheld Systems course code examples -- but built with other languages or frameworks
 
@@ -9,9 +9,9 @@ git clone --recursive git@github.com:mobilecloud-14-examples/In-Language-X.git
 
 To retrieve newly added example submodules (I think) use:
 
-git submodule foreach git checkout master
+$ git submodule foreach git checkout master
 
-git submodule foreach git pull
+$ git submodule foreach git pull
 
 
 C# / ASP.Net MVC
@@ -21,6 +21,10 @@ https://github.com/christav/mobilecloud-14-examples CSharp-ASP.Net-MVC
 C# / ASP.Net Web API 2
 ----------------------
 https://github.com/emadhilo/mobilecloud CSharp-ASP.Net-Web-API-2
+
+Clojure
+-------
+https://github.com/jchochli/mobilecloud-14-examples-clojure
 
 Go
 --
