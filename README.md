@@ -24,7 +24,7 @@ https://github.com/emadhilo/mobilecloud CSharp-ASP.Net-Web-API-2
 
 Clojure
 -------
-https://github.com/jchochli/mobilecloud-14-examples-clojure
+https://github.com/jchochli/mobilecloud-14-examples-clojure Clojure
 
 Go
 --
@@ -49,13 +49,13 @@ Python
 ------
 https://github.com/bkuzmic/mobilecloud-14-python Python
 
-Python / Flask
---------------
-https://github.com/cn28h/mobilecloud-14-flask Python-Flask
-
 Python / Django
 -------------
 https://github.com/bansalsamarth/mobilecloud-14-django Python-Django
+
+Python / Flask
+--------------
+https://github.com/cn28h/mobilecloud-14-flask Python-Flask
 
 Ruby / Rails
 ----------
