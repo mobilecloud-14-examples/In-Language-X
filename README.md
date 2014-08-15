@@ -65,6 +65,10 @@ Scala
 -----
 https://github.com/kpiszczek/posa-webservices-scala Scala
 
+Spay.io
+-------
+https://github.com/robertrv/SpraySimpleServlet Spray.io
+
 Xtend
 -----
 https://github.com/joergreichert/mobilecloud-14-xtend Xtend

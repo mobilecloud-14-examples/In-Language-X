@@ -37,3 +37,6 @@
 [submodule "Clojure"]
 	path = Clojure
 	url = git@github.com:jchochli/mobilecloud-14-examples-clojure.git
+[submodule "SpraySimpleServlet"]
+	path = SpraySimpleServlet
+	url = https://github.com/robertrv/SpraySimpleServlet
